@@ -75,6 +75,9 @@ available on the Scheme Wiki (http://community.schemewiki.org/?sicp-solutions).
 Some of the exercises should be skipped because they are too much math and/or
 don't really add value. A list of these will be provided here.
 
+- Chapter 1
+Skip 1.5, 1.7, 1.13, 1.19, 1.20, 1.26-28, 1.29, 1.35, 1.37-39, 1.45
+
 ## TODO
 
 - Add which exercises should be skipped because they're too mathy or just don't
